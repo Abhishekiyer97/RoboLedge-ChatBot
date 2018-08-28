@@ -22,7 +22,7 @@ def echo(bot, update):
 
 def main():
     # Create the Updater and pass it your bot's token.
-    updater = Updater('590080454:AAE02s747BI7Db3wVe6w6aaFg-YKEEGdol8')  # TODO
+    updater = Updater('your token here')  # TODO
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
